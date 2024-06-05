@@ -16,7 +16,7 @@ import sortCalcDeptsShader from './passes/sortPassGPU/calcDepths.wgsl';
 //@ts-ignore it works OK
 import sortUnrollIndicesShader from './passes/sortPassGPU/unrollIndices.wgsl';
 
-const SPLAT_FILE = '/nike.splat';
+const SPLAT_FILE = 'nike.splat';
 
 // fix some warnings if VSCode is in deno mode
 declare global {
