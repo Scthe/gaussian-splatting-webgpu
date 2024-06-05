@@ -10,7 +10,9 @@ In this repo, we have a WebGPU-based online renderer for a Gaussian splat file. 
 
 > WebGPU is so new it's [not available in Firefox](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API#browser_compatibility). Use Chrome instead.
 
+<br/>
 
+![gaussian-article-main-img](https://github.com/Scthe/gaussian-splatting-webgpu/assets/9325337/0700427f-4d46-4b95-bc63-d111a2aebc6b)
 
 *[Nike ZoomX Vaporfly Next%](https://x.com/alexcarliera/status/1701255887107522943) model by [Alex Carlier](https://www.alexcarlier.com/).*
 
